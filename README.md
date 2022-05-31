@@ -12,6 +12,7 @@ This is my React portfolio for the Vanderbilt Bootcamp challenge #20. This is a 
 - [Technologies](#technologies)
 - [Screenshot](#screenshot)
 - [Deployed Link](#deployment)
+- [Sources](#sources)
 
 ## License
 
@@ -35,3 +36,8 @@ If you have any questions, please contact me here: [Julieta's GitHub](https://gi
 ## Deployed Link
 
 [Click here to go to the app!]()
+
+## Sources
+Photo by Jeremy Thomas on Unsplash
+Photo by Elena Prokofyeva on Unsplash
+Photo by Felix Mittermeier on Unsplash
