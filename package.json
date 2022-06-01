@@ -1,6 +1,6 @@
 {
-  "homepage": "http://JulesMcP.github.io/jmcpherson-porfolio",
   "name": "jmcpherson-portfolio",
+  "homepage": "https://julesmcp.github.io/jmcpherson-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
