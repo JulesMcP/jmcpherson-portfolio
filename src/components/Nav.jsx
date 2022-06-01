@@ -3,7 +3,8 @@ import {FaBars, FaTimes, FaGithub, FaLinkedin} from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import {BsFileEarmarkPersonFill} from 'react-icons/bs'
 import Logo from '../assets/mylogo2.png'
-import {Link} from 'react-scroll'
+import { Link } from 'react-scroll'
+import Resume from '../assets/Resume_JulietaMcP_22.pdf'
 
 const Nav = () => {
     const[navbar, setNav] = useState(false)
@@ -103,7 +104,7 @@ const Nav = () => {
                     </li>
                     <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#dbd8d3]'>
                         <a className='flex justify-between items-center w-full text-[#808080]'
-                        href='/'>
+                            href={Resume}>
                             Resume <BsFileEarmarkPersonFill size={30} />
                         </a>
                     </li>
