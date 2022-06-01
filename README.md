@@ -36,7 +36,7 @@ If you have any questions, please contact me here: [Julieta's GitHub](https://gi
 
 ## Deployed Link
 
-[Click here to go to the app!]()
+[Click here to go to the app!](https://julesmcp.github.io/jmcpherson-portfolio/)
 
 ## Sources
 Original template design provided by Clint Briley from Code Commerce.
