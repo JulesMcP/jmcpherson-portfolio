@@ -29,6 +29,8 @@ If you have any questions, please contact me here: [Julieta's GitHub](https://gi
 - HTML
 - CSS
 - JavaScript
+- Tailwind CSS
+
 
 ## Screenshot
 
