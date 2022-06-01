@@ -13,3 +13,18 @@
         @apply cursor-pointer
     }
 }
+
+.cont-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+.cont-div:hover {
+    background-image: linear-gradient(
+        to right,
+        rgba(0,0,0,0),
+        hsla(226, 80%, 52%, 0.8)
+    )!important;
+}
