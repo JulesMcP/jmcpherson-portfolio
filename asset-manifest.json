@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/jmcpherson-porfolio/static/css/main.0bdff888.css",
-    "main.js": "/jmcpherson-porfolio/static/js/main.7ad6941a.js",
-    "static/media/feed-your-camera.png": "/jmcpherson-porfolio/static/media/feed-your-camera.6e212105afe4dea9dcf4.png",
-    "static/media/canihaz_yodad_jokes.png": "/jmcpherson-porfolio/static/media/canihaz_yodad_jokes.ac5f20fc6a0457b70e1a.png",
-    "static/media/tacobellthrowdown.png": "/jmcpherson-porfolio/static/media/tacobellthrowdown.9dbfb1cbdfe202d33634.png",
-    "static/media/selfie.jpg": "/jmcpherson-porfolio/static/media/selfie.e96f8c0f9ac6997012e9.jpg",
-    "static/media/planner.png": "/jmcpherson-porfolio/static/media/planner.b52089302f9130ea38be.png",
-    "static/media/budget_tool.png": "/jmcpherson-porfolio/static/media/budget_tool.0428a1f3418d33893f64.png",
-    "static/media/node.png": "/jmcpherson-porfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/jmcpherson-porfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/Notetaker.png": "/jmcpherson-porfolio/static/media/Notetaker.053a526cd4ad04c43417.png",
-    "static/media/mylogo2.png": "/jmcpherson-porfolio/static/media/mylogo2.74eb5c5e387704d2a04b.png",
-    "static/media/github.png": "/jmcpherson-porfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/jmcpherson-porfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/jmcpherson-porfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/jmcpherson-porfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/jmcpherson-porfolio/index.html",
-    "main.0bdff888.css.map": "/jmcpherson-porfolio/static/css/main.0bdff888.css.map",
-    "main.7ad6941a.js.map": "/jmcpherson-porfolio/static/js/main.7ad6941a.js.map"
+    "main.css": "/jmcpherson-portfolio/static/css/main.0bdff888.css",
+    "main.js": "/jmcpherson-portfolio/static/js/main.35c73362.js",
+    "static/media/feed-your-camera.png": "/jmcpherson-portfolio/static/media/feed-your-camera.6e212105afe4dea9dcf4.png",
+    "static/media/canihaz_yodad_jokes.png": "/jmcpherson-portfolio/static/media/canihaz_yodad_jokes.ac5f20fc6a0457b70e1a.png",
+    "static/media/tacobellthrowdown.png": "/jmcpherson-portfolio/static/media/tacobellthrowdown.9dbfb1cbdfe202d33634.png",
+    "static/media/selfie.jpg": "/jmcpherson-portfolio/static/media/selfie.e96f8c0f9ac6997012e9.jpg",
+    "static/media/planner.png": "/jmcpherson-portfolio/static/media/planner.b52089302f9130ea38be.png",
+    "static/media/budget_tool.png": "/jmcpherson-portfolio/static/media/budget_tool.0428a1f3418d33893f64.png",
+    "static/media/Resume_JulietaMcP_22.pdf": "/jmcpherson-portfolio/static/media/Resume_JulietaMcP_22.1ba84a7b68aa01eb759e.pdf",
+    "static/media/node.png": "/jmcpherson-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/jmcpherson-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/Notetaker.png": "/jmcpherson-portfolio/static/media/Notetaker.053a526cd4ad04c43417.png",
+    "static/media/mylogo2.png": "/jmcpherson-portfolio/static/media/mylogo2.74eb5c5e387704d2a04b.png",
+    "static/media/github.png": "/jmcpherson-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/jmcpherson-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/jmcpherson-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/jmcpherson-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/jmcpherson-portfolio/index.html",
+    "main.0bdff888.css.map": "/jmcpherson-portfolio/static/css/main.0bdff888.css.map",
+    "main.35c73362.js.map": "/jmcpherson-portfolio/static/js/main.35c73362.js.map"
   },
   "entrypoints": [
     "static/css/main.0bdff888.css",
-    "static/js/main.7ad6941a.js"
+    "static/js/main.35c73362.js"
   ]
 }
