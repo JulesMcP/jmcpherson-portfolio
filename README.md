@@ -31,15 +31,12 @@ If you have any questions, please contact me here: [Julieta's GitHub](https://gi
 - JavaScript
 - Tailwind CSS
 
-
 ## Screenshot
-
+![image](https://user-images.githubusercontent.com/95149604/171306193-e86c21b7-cb9c-4f1b-88d2-b2a6225a3545.png)
 
 ## Deployed Link
 
 [Click here to go to the app!]()
 
 ## Sources
-Photo by Jeremy Thomas on Unsplash
-Photo by Elena Prokofyeva on Unsplash
-Photo by Felix Mittermeier on Unsplash
+Original template design provided by Clint Briley from Code Commerce.
